@@ -1,0 +1,2 @@
+number of subarrays in an array =>  nC2 + n = n*(n+1)/2
+number of subsequences in an array => 2^n
